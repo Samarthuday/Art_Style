@@ -5,7 +5,7 @@ from tensorflow.keras.utils import load_img, img_to_array
 import matplotlib.pyplot as plt
 
 # Load the pre-trained model
-model = tf.keras.models.load_model('art_style_transfer_cnn_model.h5')
+model = tf.keras.models.load_model('art_style_transfer_model.keras')
 
 # Function to preprocess the uploaded images
 def preprocess_image(image, target_size=(128, 128)):
