@@ -9,7 +9,7 @@ This project implements **artistic style transfer** using PyTorch. It blends the
 
 ## 📂 Project Structure
 
-```
+
 Art_Style/
 ├── images/
 │   ├── Artworks/       # Optional folder for additional artworks
@@ -23,7 +23,7 @@ Art_Style/
 ├── main.py             # Main Python script for running the style transfer
 ├── README.md           # Documentation of the project
 ├── requirements.txt    # List of dependencies
-```
+
 
 ---
 
