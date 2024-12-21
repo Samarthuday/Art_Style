@@ -1,5 +1,3 @@
-Here’s the revised and neatly formatted `README.md`:
-
 ```markdown
 # Art Style Transfer
 
