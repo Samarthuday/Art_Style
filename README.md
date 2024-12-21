@@ -16,11 +16,8 @@ Art_Style/
 │   ├── content/        # Folder for content images
 │   ├── style/          # Folder for style images
 │   ├── generated/      # Folder for saving generated images
-├── a1.py               # Sample script (optional)
 ├── app.py              # Sample script (optional)
-├── art.ipynb           # Jupyter Notebook for experimentation
-├── art6.ipynb          # Alternative notebook
-├── main.py             # Main Python script for running the style transfer
+├── Art_Style_Transfer_Model.ipynb           # Jupyter Notebook for experimentation
 ├── README.md           # Documentation of the project
 ├── requirements.txt    # List of dependencies
 
